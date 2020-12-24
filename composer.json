@@ -1,23 +1,23 @@
 {
-	"name": "manujoz/utilities",
-	"type": "library",
-	"description": "Class width utilities sites o PHP",
-	"version": "1.0.0",
-	"require": {
-        "php": ">=5.5.0"
-	},
-	"homepage": "https://github.com/manujoz/utilities.git",
-	"authors": [
-		{
-			"name": "Manu Overa",
-			"email": "manu.giralda@gmail.com",
-			"role": "Developer"
-		}
-	],
-	"autoload": {
-        "psr-4": {
-            "Manujoz\\Utilities\\": "src/"
-        }
-	},
-	"license": "MIT"
+  "name": "manujoz/utilities",
+  "type": "library",
+  "description": "Class width utilities sites o PHP",
+  "version": "1.0.2",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "homepage": "https://github.com/manujoz/utilities.git",
+  "authors": [
+    {
+      "name": "Manu Overa",
+      "email": "manu.giralda@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Manujoz\\Utilities\\": "src/"
+    }
+  },
+  "license": "MIT"
 }
