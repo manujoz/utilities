@@ -2,7 +2,7 @@
   "name": "manujoz/utilities",
   "type": "library",
   "description": "Class width utilities sites o PHP",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "require": {
     "php": ">=5.5.0"
   },
